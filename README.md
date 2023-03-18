@@ -3,8 +3,6 @@
 
 **I’m Flo and I am a web developer, passionate about accessibility, sustainability and, art**
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my personal website 
 - 🌱 I’m currently learning how to use GraphQL and semantic HTML
 - 👯 I’m collaborating on the Vorwerkstift website
